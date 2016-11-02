@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Agenda Profuturo</string>
+
+    <string name="enter_name">Country Name</string>
+    <string name="add_record">Agregar</string>
+    <string name="btn_update">Actualizar</string>
+    <string name="btn_delete">Borrar</string>
+    <string name="empty_list_text">No records found</string>
+    <string name="enter_desc">Currency</string>
+    <string name="enter_title">Country</string>
+    <string name="buscar">Buscar</string>
+
+    <string name="resgistar">Registar</string>
+    <string name="are_your_sure"> "¿Estas seguro?"</string>
+    <string name="delete_divice"> "Eliminar Contacto"</string>
+    <string name="update_divice"> "Actualizar Contacto"</string>
+    <string name="msg_si">Aceptar</string>
+    <string name="msg_no">Cancelar</string>
+</resources>
